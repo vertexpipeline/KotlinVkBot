@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="VKbot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VKbot_jar</output-path>
+    <root id="archive" name="VKbot.jar">
+      <element id="module-output" name="VKbot" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-runtime.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/klaxon-0.31.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
